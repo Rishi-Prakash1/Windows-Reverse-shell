@@ -1,6 +1,8 @@
 <pre>
 <h1> Windows Meterpreter Payload</h1>
 >> Send this payload to your victim using beef for better result.
+>> -e for encoder
+>> -i for iteration
   
 <b style="color: red;">
 ┌──(root㉿kali)-[/home/kali]
